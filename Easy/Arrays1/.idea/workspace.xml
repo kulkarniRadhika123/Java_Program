@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8b1ca7a-408f-4f6e-b8ff-1026696efd46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_SecondSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_CheckArraySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_LeftRotateArrayBy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_LeftRotateArraybyKtimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_RightRoataeArrayBy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_RightShiftArrayByKtimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J_RotateLeftWithoutExtraSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K_MoveZeroesToLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L_MoveZeroesToLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M_MovezeroesOptimalOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_UnionArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O_MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_ConsecutiveNumberFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q_SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/R_Longest_Subarray_Ksum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2iarNHrZ1uwD71hZjenq2ZLDJUz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/B.E/kodnest/KODNESTJUNE"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8b1ca7a-408f-4f6e-b8ff-1026696efd46" name="Changes" comment="" />
+      <created>1719739492740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719739492740</updated>
+    </task>
+    <servers />
+  </component>
+</project>
